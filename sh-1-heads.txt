@@ -1,0 +1,21 @@
+master :     HEAD SHA-1 499c89fc3fd94adf07fc996a9eb1080d9c4e8dcd
+
+Java :       HEAD SHA-1 b9c9695bb979dccb535ce8506288d61b32db78ee
+
+JavaScript : HEAD SHA-1 dc1e7871bb3a8382d2f2f0a754bf778f51d1509e
+
+PHP :        HEAD SHA-1 5f415c2f20607c3a3fd96d1cd15164328f62ddba
+
+Swift :      HEAD SHA-1 376b8b264df78bd67af57b5fcfbb61e7da31eb85
+
+Ruby :       HEAD SHA-1 1f40fdbcb6e630dd63d5ecbf999aef285f20eabe
+
+Python :     HEAD SHA-1 f3e94b84d07d4852e9a1f42c7169a14100a7f652
+
+Basic :      HEAD SHA-1 ec44b23a281b8208e5317dde239799ac0d81f73e
+
+Bash :       HEAD SHA-1 6ee4af7cf16313d0741ffda365108dd4e0409a4b
+
+C++ :        HEAD SHA-1 2df3a934d4165b55b7310e24bb37dcc11e4b654c
+
+Clipper :    HEAD SHA-1 9a4a3fb0b36f45401a6d8dc9dd76460dd5ecb5ab
